@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       duration: 5000,
       imageSize: 200,
 
-      imageSrc:"chef",
+    //  imageSrc:"chef",
       text: "TASTE HUB",
       textType: TextType.ColorizeAnimationText,
       textStyle: TextStyle(

@@ -1,13 +1,9 @@
 import 'package:flutter/cupertino.dart';
-
-
 import 'package:flutter/material.dart';
 import 'package:resturant_api/snd.dart';
 
 
-
 class menu extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
